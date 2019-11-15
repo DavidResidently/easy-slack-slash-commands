@@ -1,7 +1,7 @@
 {
-  "name": "Name your app",
-  "description": "Describe your project",
-  "repository": "https://github.com/your-repo-address",
-  "logo": "Pick a logo",
+  "name": "Local Components",
+  "description": "Shows information on the local components",
+  "repository": "https://github.com/DavidResidently/easy-slack-slash-commands",
+  "logo": "Logo",
   "keywords": ["Slack", "Paths", "Slash commands"]
 }
